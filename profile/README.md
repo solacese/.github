@@ -10,4 +10,4 @@
 
 👩‍💻 Author your own project!
 
-🧙 If you have any questions, feel free to surf our [Solace Community Forum](https://solace.community/)https://solace.community/)
+🧙 If you have any questions, feel free to surf our [Solace Community Forum](https://solace.community/)
