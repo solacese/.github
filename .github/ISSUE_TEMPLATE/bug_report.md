@@ -1,7 +1,7 @@
 ---
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
+name: Bug Report  
+description: File a bug report  
+title: "[Bug]: "  
 labels:
   - bug
 body:
