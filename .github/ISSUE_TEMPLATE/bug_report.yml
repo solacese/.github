@@ -26,20 +26,6 @@ body:
       description: How can the problem be reproduced?
     validations:
       required: true
-  - type: dropdown
-    id: platform
-    attributes:
-      label: Solace Product
-      description: What Solace product is this directly affecting?
-      options:
-        - Solace PubSub+ Event Portal
-        - Solace PubSub+ Event Broker
-        - Solace PubSub+ Insights
-        - Solace APIs
-        - Other
-      default: 0
-    validations:
-      required: true
   - type: input
     id: broker_version
     attributes:
