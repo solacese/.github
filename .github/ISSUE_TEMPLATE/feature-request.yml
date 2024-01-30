@@ -3,7 +3,7 @@ name: Feature Request
 description: File a feature request
 title: "[Feature]: "
 labels:
-  - feature
+  - enhancement
 body:
   - type: textarea
     id: description
