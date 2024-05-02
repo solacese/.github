@@ -11,7 +11,7 @@
 
 ## Hi there 👋 Welcome to the Solace SEs repo! 
 
-This repo has POC projects and demos 
+This repo has POC projects and demos.
 
 
 **To get started:**
