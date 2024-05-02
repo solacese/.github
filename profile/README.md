@@ -9,18 +9,19 @@
 
 </div>
 
-## Hi there 👋 Welcome to the Solace Community! 
+## Hi there 👋 Welcome to the Solace Labs! 
+
+Solace Labs offers a list of community supported, open source projects. You can use these projects to integrate with, and use, Solace PubSub+ products.
+
 
 **To get started:**
 
 🍿 Explore a project that you're interested in
 
-📖 Read the [SolaceCommunity Contribution guide](https://solace.community/discussion/597/solacecommunity-github-contribution-guide)
+📖 Read the Contribution guide for each project
 
 🥳 Contribute to a project by opening a pull-request
 
 ⚙️ Fix any issue or bug you can
-
-👩‍💻 Author your own project!
 
 🧙 If you have any questions, feel free to surf our [Solace Community Forum](https://solace.community/)
