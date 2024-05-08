@@ -21,6 +21,6 @@ The SolaceSE organization contains POC projects and demos.
 
 🥳 Contribute to a project by opening a pull-request
 
-⚙ Fix any issue or bug you can
+🪲 Fix any issue or bug you can
 
 🧙 If you have any questions, feel free to surf our [Solace Community Forum](https://solace.community/)
