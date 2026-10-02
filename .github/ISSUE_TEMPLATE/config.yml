@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Documentation
     url: https://docs.solace.com/
-    about: For more documentation about PubSub+ platform and APIs
+    about: For more documentation about the Solace Platform and APIs
   - name: Community 
     url: https://solace.community/
     about: Ask the Solace community about anything Solace!
